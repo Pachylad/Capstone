@@ -21,6 +21,8 @@ Project management and planning documentation is done via Github Projects here: 
 
 ## Background
 
+There's often choice paralysis and dissatisfaction involved with current playlist algorithms there may be dissatisfaction with the narrow selection of songs provided
+![image](https://github.com/user-attachments/assets/b400225d-4ea4-4f67-ba04-e20dc909ec3a)
 
 
 <br>
