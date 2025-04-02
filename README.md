@@ -72,9 +72,14 @@ Use massive list of songs to recommend via metrics introduced in this data makin
 
 <br>
 
-[pie chart of genres/subgenres?]
+![image](https://github.com/user-attachments/assets/5edc6e76-6f21-463c-a7a9-17a7d96eedb3)
+![image](https://github.com/user-attachments/assets/bcae3484-a1fe-4e89-a90e-d6f84438db71)
 
-[histogram showing distribution across 'danceability'?]
+![image](https://github.com/user-attachments/assets/887e06f5-4937-4158-9a9a-c2c74d6d5047)
+![image](https://github.com/user-attachments/assets/8352735f-9759-4450-b7f1-36db7ac23df2)
+![image](https://github.com/user-attachments/assets/413026c6-003a-49d0-a03e-4215a6f54d98)
+![image](https://github.com/user-attachments/assets/ce52ac84-28ce-4944-bd65-6ee605adfd12)
+
 
 
 <br>
