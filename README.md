@@ -21,13 +21,17 @@ Project management and planning documentation is done via Github Projects here: 
 
 ## Background
 
-
+With music as a universal experience for everyone. However, there's often choice paralysis and dissatisfaction involved with current playlist algorithms there may be dissatisfaction with the narrow selection of songs provided
 
 <br>
 
 
 
 ## Problem Statement
+
+A new process for users to sift through songs possibly filtered through personal preferences (mood, energy)
+
+Use massive list of songs to recommend via metrics introduced in this data making use of metrics such as tempo, key and loudness but also slightly subjective but still quantifiable ones like danceability, energy, valence (that will be explained in the presentation).
 
 
 <br>
@@ -68,9 +72,14 @@ Project management and planning documentation is done via Github Projects here: 
 
 <br>
 
-[pie chart of genres/subgenres?]
+![image](https://github.com/user-attachments/assets/5edc6e76-6f21-463c-a7a9-17a7d96eedb3)
+![image](https://github.com/user-attachments/assets/bcae3484-a1fe-4e89-a90e-d6f84438db71)
 
-[histogram showing distribution across 'danceability'?]
+![image](https://github.com/user-attachments/assets/887e06f5-4937-4158-9a9a-c2c74d6d5047)
+![image](https://github.com/user-attachments/assets/8352735f-9759-4450-b7f1-36db7ac23df2)
+![image](https://github.com/user-attachments/assets/413026c6-003a-49d0-a03e-4215a6f54d98)
+![image](https://github.com/user-attachments/assets/ce52ac84-28ce-4944-bd65-6ee605adfd12)
+
 
 
 <br>
