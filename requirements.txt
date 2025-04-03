@@ -4,4 +4,4 @@ pandas
 os
 requests
 pickle
-scikit-learn
+sklearn
